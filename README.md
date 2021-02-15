@@ -1,1 +1,1 @@
-# to-do-list-solo-
+# simple to do list app
